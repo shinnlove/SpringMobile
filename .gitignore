@@ -9,3 +9,8 @@
 # misc
 .DS_Store
 npm-debug.log*
+
+# IDE
+
+.idea/
+.idea/workspace.xml
