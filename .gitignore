@@ -11,6 +11,5 @@
 npm-debug.log*
 
 # IDE
-
 .idea/
 .idea/workspace.xml
